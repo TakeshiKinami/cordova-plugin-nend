@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-nend",
+  "version": "0.0.1",
+  "description": "Cordova Nend Plugin",
+  "cordova": {
+    "id": "cordova-plugin-nend",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apache/cordova-plugin-nend"
+  },
+  "keywords": [
+    "cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Takeshi Kinami",
+  "license": "Apache-2.0"
+}
